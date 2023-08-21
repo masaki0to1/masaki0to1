@@ -3,7 +3,7 @@
 ---
 
 - 🔭 I'm currently working as a freelance engineer now under the trade name AND-Code.
-- 🌱 I’m currently learning AWS, Terraform, SRE, Python
+- 🌱 I’m currently learning AWS, Terraform, SRE, Python, AI.
 
 - 💬 Ask me about cloud technologies such as AWS, promoting DX by implementing IaC using CloudFormation and Terraform, SRE activities, building and operating ISMS, etc.
 - 📫 How to reach me: masaki.ishimoto@and-code.jp
