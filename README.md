@@ -1,8 +1,5 @@
 ### Hi, I'm Masaki Ishimoto 👋
--
-<!--
-**masaki0to1/masaki0to1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+--
 - 🔭 I'm currently working as a freelance engineer now under the trade name AND-Code
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -11,7 +8,6 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 <!-- リポジトリステータス -->
 [![masaki0to1's github stats](https://github-readme-stats.vercel.app/api?username=ユーザ名&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/masaki0to1/)
