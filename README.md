@@ -14,7 +14,7 @@
 -->
 
 <!-- リポジトリステータス -->
-<p><img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=masaki0to1&hide=contribs&count_private=true&show_icons=true&layout=compact&theme=tokyonight"/></p>
+<a href="https://github.com/masaki0to1/"><p><img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=masaki0to1&hide=contribs&count_private=true&show_icons=true&layout=compact&theme=tokyonight"/></p></a>
 
 <!-- ソースコード統計 -->
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masaki0to1&layout=compact&theme=tokyonight"/></p>(https://github.com/masaki0to1/)
+<a href="https://github.com/masaki0to1/"><p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masaki0to1&layout=compact&theme=tokyonight"/></p></a>
