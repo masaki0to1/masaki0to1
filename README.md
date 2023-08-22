@@ -33,7 +33,7 @@
   <link rel="stylesheet" type="text/css" href="./css/styles.css">
 </head> -->
 <!-- リポジトリステータス -->
-<div class="stats-container" style="padding: 0; margin: 0; display: flex; justify-content: space-between; align-items: center;">
+<div class="stats-container" style="padding: 0; display: flex; justify-content: space-between; align-items: center;">
 <a href="https://github.com/masaki0to1/" class="github-link">
   <img class="repo-stats" width="49%" alt="GitHub リポジトリステータス" src="https://github-readme-stats.vercel.app/api?username=masaki0to1&hide=contribs&count_private=true&show_icons=true&layout=compact&theme=tokyonight"/></a>
 
