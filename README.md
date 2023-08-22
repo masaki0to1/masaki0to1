@@ -38,7 +38,7 @@
   <p>
     <img class="repo-stats" alt="GitHub リポジトリステータス" src="https://github-readme-stats.vercel.app/api?username=masaki0to1&hide=contribs&count_private=true&show_icons=true&layout=compact&theme=tokyonight"/>
   </p>
-
+</a>
 <!-- ソースコード統計 -->
   <img class="code-stats" alt="ソースコード統計" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masaki0to1&layout=compact&theme=tokyonight"/>
 </a>
