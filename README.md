@@ -15,9 +15,23 @@
 - 🤔 I’m looking for help with ...
 -->
 
-<head>
+<style>
+.stats-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.repo-stats {
+  float: left;
+}
+.code-stats {
+  float: right;
+}
+</style>
+
+<!-- <head>
   <link rel="stylesheet" type="text/css" href="./css/styles.css">
-</head>
+</head> -->
 <!-- リポジトリステータス -->
 <div class="stats-container">
 <a href="https://github.com/masaki0to1/" class="github-link">
