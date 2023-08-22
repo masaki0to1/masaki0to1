@@ -15,6 +15,9 @@
 - 🤔 I’m looking for help with ...
 -->
 
+<head>
+  <link rel="stylesheet" type="text/css" href="./css/styles.css">
+</head>
 <!-- リポジトリステータス -->
 <div class="stats-container">
 <a href="https://github.com/masaki0to1/" class="github-link">
