@@ -33,7 +33,7 @@
   <link rel="stylesheet" type="text/css" href="./css/styles.css">
 </head> -->
 <!-- グラフコンテナ -->
-<div class="stats-container" style="display: flex; justify-content: center;">
+<div class="stats-container" style="display: flex;">
 <!-- リポジトリステータス -->
   <a href="https://github.com/masaki0to1/" class="github-link">
     <p>
