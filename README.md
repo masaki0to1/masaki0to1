@@ -15,7 +15,7 @@
 - 🤔 I’m looking for help with ...
 -->
 
-<style>
+<!-- <style>
 .stats-container {
   display: flex;
   justify-content: space-between;
@@ -27,13 +27,13 @@
 .code-stats {
   float: right;
 }
-</style>
+</style> -->
 
 <!-- <head>
   <link rel="stylesheet" type="text/css" href="./css/styles.css">
 </head> -->
 <!-- リポジトリステータス -->
-<div class="stats-container">
+<div class="stats-container" style="display: flex; justify-content: space-between; align-items: center;">
 <a href="https://github.com/masaki0to1/" class="github-link">
   <img class="repo-stats" align="left" alt="GitHub リポジトリステータス" src="https://github-readme-stats.vercel.app/api?username=masaki0to1&hide=contribs&count_private=true&show_icons=true&layout=compact&theme=tokyonight"/></a>
 
