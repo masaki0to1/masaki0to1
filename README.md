@@ -33,7 +33,7 @@
   <link rel="stylesheet" type="text/css" href="./css/styles.css">
 </head> -->
 <!-- グラフコンテナ -->
-<div class="stats-container" style="display: flex; flex-wrap: wrap;">
+<div class="stats-container" style="display: flex; flex-wrap: wrap; justfy-content: space-between;">
 <!-- リポジトリステータス -->
   <a href="https://github.com/masaki0to1/" class="github-link" style="flex-basis: 49%; max-width: 49%;">
       <img class="repo-stats" alt="GitHub リポジトリステータス" src="https://github-readme-stats.vercel.app/api?username=masaki0to1&hide=contribs&count_private=true&show_icons=true&layout=compact&theme=tokyonight"/>
