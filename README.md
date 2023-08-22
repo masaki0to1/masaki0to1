@@ -36,10 +36,10 @@
 <div class="stats-container" style="display: flex; flex-wrap: wrap;">
 <!-- リポジトリステータス -->
   <a href="https://github.com/masaki0to1/" class="github-link" style="flex-basis: 49%; max-width: 49%;">
-      <img class="repo-stats" alt="GitHub リポジトリステータス" src="https://github-readme-stats.vercel.app/api?username=masaki0to1&hide=contribs&count_private=true&show_icons=true&layout=compact&theme=tokyonight"/>
+      <img class="repo-stats"　width="100%" alt="GitHub リポジトリステータス" src="https://github-readme-stats.vercel.app/api?username=masaki0to1&hide=contribs&count_private=true&show_icons=true&layout=compact&theme=tokyonight"/>
   </a>
   <!-- ソースコード統計 -->
   <a href="https://github.com/masaki0to1/" class="github-link" style="flex-basis: 49%; max-width: 49%;">
-      <img class="code-stats" alt="ソースコード統計" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masaki0to1&layout=compact&theme=tokyonight"/>
+      <img class="code-stats" width="100%" alt="ソースコード統計" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masaki0to1&layout=compact&theme=tokyonight"/>
   </a>
 </div>
