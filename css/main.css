@@ -1,0 +1,11 @@
+.stats-container {
+  display: flex;
+  justify-content: space-between; /* 画像を均等に配置 */
+  align-items: center; /* 垂直方向に中央揃え */
+  flex-wrap: wrap; /* 画面幅が狭い場合に折り返す */
+}
+
+.stats-container img {
+  max-width: 100%; /* 画像の最大幅をコンテナに合わせる */
+  height: auto; /* アスペクト比を維持 */
+}
