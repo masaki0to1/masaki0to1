@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning AWS, Terraform, SRE, Python, AI.
 
 - 💬 Ask me about cloud technologies such as AWS, promoting DX by implementing IaC using CloudFormation and Terraform, SRE activities, building and operating ISMS, etc.
-- 📫 How to reach me: masaki.ishimoto@and-code.jp
+- 📫 How to reach me: masaki.ishimoto@yozora.ai
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm addicted to working out at the gym.
 
