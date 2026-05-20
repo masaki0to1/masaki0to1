@@ -1,14 +1,13 @@
 ### Hi, I'm Masaki Ishimoto 👋
 
 ---
+- 🔭 I’m currently working as an IT infrastructure engineer through my company, YozoraAI, Inc.
+- 🌱 I’m currently deepening my expertise in AWS, Terraform, SRE, Python, and AI-driven development.
 
-- 🔭 I'm currently working as a freelance engineer now under the trade name AND-Code.
-- 🌱 I’m currently learning AWS, Terraform, SRE, Python, AI.
-
-- 💬 Ask me about cloud technologies such as AWS, promoting DX by implementing IaC using CloudFormation and Terraform, SRE activities, building and operating ISMS, etc.
+- 💬 Ask me about AWS, Infrastructure as Code with AWS CloudFormation and Terraform, SRE practices, cloud security, and establishing and operating ISMS frameworks.
 - 📫 How to reach me: masaki.ishimoto@yozora.ai
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm addicted to working out at the gym.
+- ⚡ Fun fact: I’m a gym enthusiast.
 
 <!--
 - 👯 I’m looking to collaborate on ...
