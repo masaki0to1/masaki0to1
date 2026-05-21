@@ -31,21 +31,4 @@
 <!-- <head>
   <link rel="stylesheet" type="text/css" href="./css/styles.css">
 </head> -->
-<p>
-  <a href="https://github.com/masaki0to1">
-    <img
-      height="180"
-      align="center"
-      alt="Masaki's GitHub stats"
-      src="https://github-readme-stats.vercel.app/api?username=masaki0to1&show_icons=true&theme=tokyonight&include_all_commits=true"
     />
-  </a>
-  <a href="https://github.com/masaki0to1">
-    <img
-      height="180"
-      align="center"
-      alt="Top languages"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=masaki0to1&layout=compact&theme=tokyonight&langs_count=8&card_width=320"
-    />
-  </a>
-</p>
